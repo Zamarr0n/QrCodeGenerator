@@ -36,7 +36,7 @@ const clearUI = () => {
 const createSaveBtn = (saveUrl) => {
     const link = document.createElement('a');
     link.id = 'save-link';
-    // link.classList = definir clase del boton
+    link.classList = "btn btn-info  margin-btn"
     link.href = saveUrl;
     link.download = "qrcode.png";
     link.textContent = "Save QR Code";

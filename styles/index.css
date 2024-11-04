@@ -1,0 +1,22 @@
+main{
+    padding-top: 2rem;
+    }
+
+h1{
+    text-align: center;
+}
+.url_input{
+    padding-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+.section_qr{
+    display: flex;
+    justify-content: center;
+    
+}
+.margin-btn{
+    margin-top: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+} 
